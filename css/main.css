@@ -1,6 +1,7 @@
 h2 {
     color: red;
     font-family: "Lucida Grande", "Helvetica Nueue", Arial, sans-serif;
+    text-align: center;
 }
 
 p {
@@ -9,11 +10,25 @@ p {
 
 img {
     display: block;
-    width: 50%;
+    width: 30%;
     margin-left: auto;
     margin-right: auto;
+    outline-style: dashed;
+    outline-color: blue;
+    float:left;
+}
+
+body {
+    background-color: lightblue;
 }
 
 .centerText {
     text-align: center;
+}
+
+h1 {
+    text-align: center;
+    color: green;
+    text-transform: uppercase;
+
 }
