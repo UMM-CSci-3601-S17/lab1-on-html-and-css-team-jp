@@ -1,7 +1,8 @@
-h2 {
+header {
     color: red;
     font-family: "Lucida Grande", "Helvetica Nueue", Arial, sans-serif;
     text-align: center;
+    font-size: 60px;
 }
 
 p {
@@ -15,7 +16,6 @@ img {
     margin-right: auto;
     outline-style: dashed;
     outline-color: blue;
-    float:left;
 }
 
 body {
