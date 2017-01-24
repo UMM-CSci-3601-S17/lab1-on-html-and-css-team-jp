@@ -9,9 +9,9 @@ p {
     font-family: monospace;
 }
 
-img {
+img{
     display: block;
-    width: 30%;
+    width: 50%;
     margin-left: auto;
     margin-right: auto;
     outline-style: dashed;
@@ -31,4 +31,45 @@ h1 {
     color: green;
     text-transform: uppercase;
 
+}
+
+nav > ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    background-color: #36424a;
+    padding: 16px;
+}
+
+nav > ul > li {
+    display: inline;
+}
+
+nav > ul > li > a {
+    padding: 95px;
+    font-size : 30px;
+    text-decoration: none;
+}
+
+a, a:visited {
+    color: #eee;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+
+#Products, #Us {
+    text-align: center;
+}
+
+#Slogan{
+    text-align: center;
+    font-family: "Rockwell Extra Bold", "Century Gothic", Arial;
+    color: forestgreen;
+}
+
+.h-line {
+    margin-bottom: 50px;
 }
