@@ -19,7 +19,7 @@ img{
 }
 
 body {
-    background-color: lightblue;
+    background-color: lightgreen;
 }
 
 .centerText {
@@ -73,3 +73,28 @@ a:hover {
 .h-line {
     margin-bottom: 50px;
 }
+
+h2{
+    text-align: center;
+}
+
+#fruits{
+    /*text-indent: 370px;*/
+    display: inline-block;
+}
+
+#fruits > h3{
+    /*text-indent: 410px;*/
+}
+
+ul{
+    list-style: inside;
+
+}
+
+#Vegetables{
+    display: inline-block;
+}
+
+
+
