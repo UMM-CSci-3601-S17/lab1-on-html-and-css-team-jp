@@ -34,5 +34,5 @@ changes from feature branches into your master branch.
   - [CSS Display and Visability](http://www.w3schools.com/css/css_display_visibility.asp)
   - [CSS3 Features](http://www.w3schools.com/css/css3_intro.asp) - Relativly recent stuff, cool features not yet supported by all browsers.
 
-
-
+For the html5 feature we used header and footer for the Title of the page and the for the contact us portion at the bottom of the page.
+For the css3 feature we implemented buttons for the navbar.
